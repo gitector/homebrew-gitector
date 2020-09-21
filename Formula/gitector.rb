@@ -5,9 +5,9 @@
 class Gitector < Formula
   desc ""
   homepage "https://gitector.dev"
-  url "https://github.com/gitector/gitector/archive/v0.0.2-rc.zip"
-  version "0.0.2"
-  sha256 "f0ad3bf519e4b5e577b7e69a448912cf3a2382e64c24d07ff1bd01ade8074498"
+  url "https://github.com/gitector/gitector/archive/v0.0.4.zip"
+  version "0.0.4"
+  sha256 "90a2478156d04d0338419993b03bf7eecd390931a0095b43a4f119a67aaa0e33"
 
   depends_on "go" => :build
 
